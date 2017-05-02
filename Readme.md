@@ -1,1 +1,1 @@
-This is the scetool for ps devs and can used for webman-mod compile
+This is the scetool for ps3 devs and can used for webman-mod compile
