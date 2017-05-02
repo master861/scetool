@@ -1,0 +1,16 @@
+﻿  frontend.cpp
+frontend.cpp(152): warning C4244: "=": Konvertierung von "u64" in "u16", möglicher Datenverlust
+frontend.cpp(166): warning C4244: "=": Konvertierung von "u64" in "u32", möglicher Datenverlust
+frontend.cpp(179): warning C4244: "=": Konvertierung von "u64" in "u32", möglicher Datenverlust
+frontend.cpp(273): warning C4244: "=": Konvertierung von "u64" in "u32", möglicher Datenverlust
+frontend.cpp(394): warning C4477: "printf": Die Formatzeichenfolge "%016X" erfordert ein Argument vom Typ "unsigned int", das variadic-Argument "1" weist aber den Typ "u64" auf.
+  frontend.cpp(394): note: Verwenden Sie ggf. "%llX" in der Formatzeichenfolge.
+  frontend.cpp(394): note: Verwenden Sie ggf. "%I64X" in der Formatzeichenfolge.
+frontend.cpp(583): warning C4244: "Argument": Konvertierung von "u64" in "u32", möglicher Datenverlust
+frontend.cpp(600): warning C4244: "Argument": Konvertierung von "u64" in "u32", möglicher Datenverlust
+  Code wird generiert.
+  0 of 239 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Codegenerierung ist abgeschlossen.
+  scetool.vcxproj -> C:\Users\maste\Desktop\scetool\Release\scetool.exe
